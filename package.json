@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "eslint for ccwork",
   "main": "index.js",
-  "private": true,
   "publishConfig":{
     "registry": "https://github.com/GiHccTpD/eslint-config-ccwork.git"
   },
