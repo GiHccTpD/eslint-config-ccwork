@@ -1,6 +1,6 @@
 {
-  "name": "@ccwork/eslint-config-ccwork",
-  "version": "1.2.1",
+  "name": "eslint-config-ccwork",
+  "version": "1.2.2",
   "description": "eslint for ccwork",
   "main": "index.js",
   "repository": {
