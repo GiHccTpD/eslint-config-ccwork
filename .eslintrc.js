@@ -26,10 +26,10 @@ module.exports = {
         'no-var': 'error',
         'eol-last': ['error', 'always'],
         'no-multiple-empty-lines': ['error', { max: 2, maxEOF: 1 }],
-        'lines-around-comment': ['error', { beforeLineComment: false, allowBlockStart: true }],,
+        'lines-around-comment': ['error', { beforeLineComment: false, allowBlockStart: true }],
         'semi-spacing': 'error',
         'no-trailing-spaces': 'error',
-        'space-in-parens': ['error', 'always'],
+        'space-in-parens': 'error',
         'space-before-function-paren': ['error', 'always'],
     },
 };
