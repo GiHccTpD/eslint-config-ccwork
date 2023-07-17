@@ -1,22 +1,22 @@
 {
-  "name": "eslint-config-ccwork-nodejs",
-  "version": "1.2.4",
-  "description": "eslint for ccwork",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/GiHccTpD/eslint-config-ccwork.git"
-  },
-  "scripts": {
-    "lint": "eslint src --fix --ext .ts,.tsx,.vue,.js,.jsx",
-    "prettier": "prettier --write ."
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "eslint": "^8.44.0"
-  },
-  "dependencies": {
-    "prettier": "^3.0.0"
-  }
+    "name": "eslint-config-ccwork-nodejs",
+    "version": "1.2.4",
+    "description": "eslint for ccwork",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GiHccTpD/eslint-config-ccwork.git"
+    },
+    "scripts": {
+        "lint": "eslint src --fix --ext .ts,.tsx,.vue,.js,.jsx",
+        "prettier": "prettier --write ."
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^8.44.0"
+    },
+    "dependencies": {
+        "prettier": "^3.0.0"
+    }
 }
